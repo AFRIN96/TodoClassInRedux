@@ -1,2 +1,2 @@
-# TodoClassInRedux
+# TodoAppInRedux
 Created with CodeSandbox
